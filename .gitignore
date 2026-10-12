@@ -40,3 +40,10 @@
 # Gradle cache directory
 .gradle/
 notepad .gitignore
+# Unity / VS / logs
+UpgradeLog.htm
+*.csproj
+*.sln
+*.user
+*.suo
+.vs/
